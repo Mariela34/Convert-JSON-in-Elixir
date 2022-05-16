@@ -1,0 +1,28 @@
+[
+  {
+    "layers": {
+      "trend": {
+        "tgraphDraw": "ALP",
+        "markerStyle": "..",
+        "markerColor": "..",
+        "lineWidth": "..",
+        "fillColor": "..",
+        "LineColor": ".."
+      },
+      "highlight": {
+        "tgraphDraw": "AC",
+        "markerStyle": "..",
+        "markerColor": "..",
+        "lineWidth": "..",
+        "fillColor": "..",
+        "LineColor": ".."
+      }
+    },
+    "graphTitle": "test",
+    "graphName": "trendGraph",
+    "filepath": "..",
+    "description": "options",
+    "Ytitle": "Y title",
+    "Xtitle": "X title"
+  }
+]
